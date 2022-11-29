@@ -1,5 +1,7 @@
 body{
     background-color: #0C1E7F;
+    display:flex;
+    justify-content: center;
 }
 .nav{
     background-color:#612897;
